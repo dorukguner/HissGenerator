@@ -5,7 +5,7 @@
  * @extends AudioWorkletProcessor
  **/
 
-class HissGeneratorProcessor extends AudioWorkletProcessor {
+class HissGeneratorProcessor extends AudioWorkletNode {
   constructor() {
     super();
   }
